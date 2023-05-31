@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">RV demo</string>
+
+    <string name="base_url">https://jsonplaceholder.typicode.com/photos</string>
+    <string name="some">Some</string>
+</resources>
